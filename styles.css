@@ -105,11 +105,11 @@ li::before {
 
 #coming-soon {
   cursor: default;
-  /* color: grey; */
+  color: grey;
   text-decoration: none;
 }
 
 a#coming-soon:hover {
   text-decoration: none;
-    color: grey;
+    /* color: grey; */
 }
